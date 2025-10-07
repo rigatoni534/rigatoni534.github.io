@@ -17,7 +17,7 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
-button {
+.nav-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -34,7 +34,7 @@ button {
   margin-top: 10vh;
   transition: all 0.3s ease;
 }
-button:hover {
+.nav-button:hover {
   box-shadow: 0 0 10px #333;
   transform: scale(1.02);
 }
