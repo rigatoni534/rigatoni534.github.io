@@ -28,11 +28,14 @@ h1 {
   border-radius: 12px;
   font-family: "Roboto Mono", monospace;
   border-width: 0px;
-  width: 20vw;
+  width: 15vw;
   height: 10vh;
   margin-left: 15vw;
-  margin-top: 10vh;
+  margin-top: 8vh;
   transition: all 0.3s ease;
+  background-color: white;
+  text-decoration: none;
+  color: black;
 }
 .nav-button:hover {
   box-shadow: 0 0 10px #333;
