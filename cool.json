@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "spec": 1,
   "main": "regular",
-  "regular": "https://gstatic.com",
-  "medium": "https://gstatic.com",
-  "bold": "https://gstatic.com",
-  "italic": "https://gstatic.com"
+  "regular": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat-Regular.ttf",
+  "medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat-Medium.ttf",
+  "bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat-Bold.ttf",
+  "italic": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/Montserrat-Italic.ttf"
 }
