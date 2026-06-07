@@ -1,0 +1,71 @@
+{
+  "name": "OrangeOLED+",
+  "description": "Clean OLED black with balanced orange accents.",
+  "authors": [
+    {
+      "name": "rigatoni + Copilot",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+
+  "background": {
+    "color": "#000000"
+  },
+
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#ff8a3d"],
+
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#c9c9c9"],
+    "TEXT_LINK": ["#ff7a22"],
+    "TEXT_DANGER": ["#ff4f2f"],
+
+    "INTERACTIVE_NORMAL": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#ff7a22"],
+    "INTERACTIVE_MUTED": ["#6a6a6a"],
+
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#0a0a0a"],
+    "BACKGROUND_SECONDARY_ALT": ["#0f0f0f"],
+    "BACKGROUND_TERTIARY": ["#141414"],
+    "BACKGROUND_FLOATING": ["#0d0d0d"],
+
+    "BACKGROUND_ACCENT": ["#ff7a22"],
+    "BACKGROUND_MODIFIER_HOVER": ["#1a1a1a"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#202020"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ff7a2215"],
+
+    "BACKGROUND_MENTIONED": ["#ff7a2215"],
+    "BACKGROUND_MENTIONED_HOVER": ["#ff7a2225"],
+
+    "CHANNELS_DEFAULT": ["#d0d0d0"],
+    "CHANNEL_ICON": ["#ffffff"],
+
+    "CHAT_BACKGROUND": ["#000000"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#8a8a8a"],
+
+    "SPOILER_HIDDEN_BACKGROUND": ["#1a1a1a"],
+    "SPOILER_REVEALED_BACKGROUND": ["#000000"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_300": "#e6e6e6",
+    "PRIMARY_360": "#ff7a22",
+    "PRIMARY_500": "#ff7a22",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_700": "#000000",
+
+    "BRAND_260": "#ff7a22",
+    "BRAND_360": "#ff7a22",
+    "BRAND_500": "#ff7a22",
+
+    "WHITE_500": "#ffffff",
+
+    "ORANGE_345": "#ff7a22",
+    "RED_400": "#ff4f2f",
+    "GREEN_360": "#3cff8a"
+  }
+}
