@@ -3,6 +3,7 @@
   "author": "Google Fonts",
   "version": "1.0.0",
   "spec": 1,
+  "main": "regular",
   "regular": "https://gstatic.com",
   "medium": "https://gstatic.com",
   "bold": "https://gstatic.com",
