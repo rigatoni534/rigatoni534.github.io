@@ -2,6 +2,8 @@
   "name": "Montserrat",
   "author": "Google Fonts",
   "version": "1.0.0",
+  "spec": 2,
+  "main": "regular",
   "fonts": {
     "regular": "https://gstatic.com",
     "medium": "https://gstatic.com",
