@@ -1,0 +1,11 @@
+{
+  "name": "Montserrat",
+  "author": "Google Fonts",
+  "version": "1.0.0",
+  "fonts": {
+    "regular": "https://gstatic.com",
+    "medium": "https://gstatic.com",
+    "bold": "https://gstatic.com",
+    "italic": "https://gstatic.com"
+  }
+}
